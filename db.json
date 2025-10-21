@@ -1,0 +1,219 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Getting Started with Laravel",
+      "body": "A beginner-friendly guide to building your first Laravel project from scratch.",
+      "username": "haidar_dev",
+      "listOfComments": [
+        {
+          "postId": 1,
+          "body": "Thanks! This helped me start my first app.",
+          "username": "ali_coder",
+          "email": "ali@example.com",
+          "created_at": "2025-10-15T09:15:00Z"
+        },
+        {
+          "postId": 1,
+          "body": "Can you also explain routing in more detail?",
+          "username": "tech_learner",
+          "email": "tech@example.com",
+          "created_at": "2025-10-16T12:20:00Z"
+        }
+      ],
+      "created_at": "2025-10-10T08:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Understanding Middleware in Laravel",
+      "body": "Learn how middleware works and how to secure your routes effectively.",
+      "username": "sara_backend",
+      "listOfComments": [
+        {
+          "postId": 2,
+          "body": "Middleware confused me before. This clarified it!",
+          "username": "john_dev",
+          "email": "john@example.com",
+          "created_at": "2025-10-12T11:45:00Z"
+        }
+      ],
+      "created_at": "2025-10-09T13:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "PHP 8.3 New Features Overview",
+      "body": "Explore the latest improvements and syntax sugar added to PHP 8.3.",
+      "username": "mark_php",
+      "listOfComments": [
+        {
+          "postId": 3,
+          "body": "Union types saved me so much time!",
+          "username": "dev_mona",
+          "email": "mona@example.com",
+          "created_at": "2025-10-13T10:00:00Z"
+        }
+      ],
+      "created_at": "2025-10-08T09:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "Top 10 VS Code Extensions for Developers",
+      "body": "Speed up your workflow with these must-have VS Code extensions.",
+      "username": "noor_codes",
+      "listOfComments": [],
+      "created_at": "2025-10-07T08:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Building REST APIs with Node.js",
+      "body": "A simple approach to structuring your Node.js API for scalability.",
+      "username": "hassan_node",
+      "listOfComments": [
+        {
+          "postId": 5,
+          "body": "This helped me clean up my Express routes.",
+          "username": "omar_tech",
+          "email": "omar@example.com",
+          "created_at": "2025-10-11T09:30:00Z"
+        }
+      ],
+      "created_at": "2025-10-06T14:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Why You Should Learn TypeScript in 2025",
+      "body": "Type safety and better tooling make TS a must-have skill.",
+      "username": "fatima_front",
+      "listOfComments": [],
+      "created_at": "2025-10-06T15:00:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Mastering Git and GitHub",
+      "body": "Version control is essential — here’s a practical guide to mastering Git commands.",
+      "username": "ali_git",
+      "listOfComments": [
+        {
+          "postId": 7,
+          "body": "Finally understood rebasing!",
+          "username": "samir",
+          "email": "samir@example.com",
+          "created_at": "2025-10-14T07:00:00Z"
+        }
+      ],
+      "created_at": "2025-10-05T10:00:00Z"
+    },
+    {
+      "id": 8,
+      "title": "Deploying Laravel Apps to Hostinger",
+      "body": "A full step-by-step guide to deploy Laravel apps on shared hosting.",
+      "username": "haidar_dev",
+      "listOfComments": [
+        {
+          "postId": 8,
+          "body": "Worked perfectly, thanks for sharing!",
+          "username": "layla",
+          "email": "layla@example.com",
+          "created_at": "2025-10-17T18:30:00Z"
+        }
+      ],
+      "created_at": "2025-10-04T12:00:00Z"
+    },
+    {
+      "id": 9,
+      "title": "Using Redis for Caching in Laravel",
+      "body": "Speed up your app performance by integrating Redis caching layer.",
+      "username": "backend_guru",
+      "listOfComments": [],
+      "created_at": "2025-10-04T09:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "10 Common Mistakes in JavaScript",
+      "body": "Avoid these frequent pitfalls when working with JavaScript in production.",
+      "username": "frontend_nora",
+      "listOfComments": [],
+      "created_at": "2025-10-03T11:00:00Z"
+    },
+    {
+      "id": 11,
+      "title": "Intro to RESTful API Design",
+      "body": "Learn the principles behind RESTful API design with clear examples.",
+      "username": "api_master",
+      "listOfComments": [],
+      "created_at": "2025-10-03T09:00:00Z"
+    },
+    {
+      "id": 12,
+      "title": "Database Optimization Tips",
+      "body": "Simple tweaks to improve your database performance and query speed.",
+      "username": "sql_lover",
+      "listOfComments": [],
+      "created_at": "2025-10-02T09:00:00Z"
+    },
+    {
+      "id": 13,
+      "title": "Introduction to Docker for Developers",
+      "body": "Docker can simplify your local development environment setup.",
+      "username": "dev_ops",
+      "listOfComments": [],
+      "created_at": "2025-10-01T10:00:00Z"
+    },
+    {
+      "id": 14,
+      "title": "Securing File Uploads in PHP",
+      "body": "Learn how to safely handle and validate uploaded files in PHP.",
+      "username": "security_pro",
+      "listOfComments": [],
+      "created_at": "2025-10-01T13:00:00Z"
+    },
+    {
+      "id": 15,
+      "title": "Understanding OOP in PHP",
+      "body": "Classes, objects, inheritance — all explained with simple examples.",
+      "username": "oop_teacher",
+      "listOfComments": [],
+      "created_at": "2025-09-30T09:00:00Z"
+    },
+    {
+      "id": 16,
+      "title": "How to Use APIs in JavaScript",
+      "body": "Fetch data from public APIs using Fetch and Axios.",
+      "username": "js_learner",
+      "listOfComments": [],
+      "created_at": "2025-09-29T09:00:00Z"
+    },
+    {
+      "id": 17,
+      "title": "Laravel Filament Dashboard Setup",
+      "body": "A guide to quickly building admin panels using Filament.",
+      "username": "haidar_dev",
+      "listOfComments": [],
+      "created_at": "2025-09-28T09:00:00Z"
+    },
+    {
+      "id": 18,
+      "title": "Mastering Tailwind CSS",
+      "body": "Speed up front-end design with Tailwind CSS utility classes.",
+      "username": "css_artist",
+      "listOfComments": [],
+      "created_at": "2025-09-27T09:00:00Z"
+    },
+    {
+      "id": 19,
+      "title": "Debugging Tips for PHP Developers",
+      "body": "Use Xdebug and Laravel Telescope to track issues efficiently.",
+      "username": "debug_doctor",
+      "listOfComments": [],
+      "created_at": "2025-09-26T09:00:00Z"
+    },
+    {
+      "id": 20,
+      "title": "Building a Blog with Laravel and Filament",
+      "body": "Combine Laravel and Filament to create a modern blog dashboard.",
+      "username": "haidar_dev",
+      "listOfComments": [],
+      "created_at": "2025-09-25T09:00:00Z"
+    }
+  ]
+}
